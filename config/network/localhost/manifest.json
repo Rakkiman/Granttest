@@ -1,0 +1,15 @@
+{
+    "year": "1995",
+    "serverAddress": "IBPFhost",
+    "serverName": "Node G15 Intranet",
+    "iconName": "fbi.png",
+    "terminalID": "G15",
+    "defaultUser": {
+        "userId": "Grant",
+        "password": "",
+        "userName": "Grant"
+    },
+    "randomSeed": true,
+    
+    "latestKernel": true
+}
